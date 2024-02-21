@@ -1,10 +1,11 @@
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({ 
+export default defineConfig({
+  base: "/meditations-vitepress/",
   title: "Meditations",
   description: "A Personal Inspiration Site",
-  head: [['link', { rel: 'icon', type: 'image/png', href: '/logo-mini.png' }]],
+  head: [['link', { rel: 'icon', type: 'image/png', href: '/meditations-vitepress/logo-mini.png' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
