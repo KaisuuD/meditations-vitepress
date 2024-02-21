@@ -1,2 +1,14 @@
-.vitepress/cache
-.vitepress/dist
+cache
+dist
+temp
+examples-temp
+node_modules
+pnpm-global
+*.log
+*.tgz
+.DS_Store
+.idea
+.temp
+.vite_opt_cache
+.vscode
+TODOs.md
