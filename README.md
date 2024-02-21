@@ -1,4 +1,4 @@
-# meditations-vitepress
+# Meditations
 
 https://kaisuud.github.io/meditations-vitepress/  
 
